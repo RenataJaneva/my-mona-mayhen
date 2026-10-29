@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "files": {
+    "README.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "0bfd2d2abf46b430d654e742323479d27a11c937d863d148d5d615ae8f8648ee",
+      "localized_sha256": "5f4b994b748116536fe471df9c2b20dc573b3714da674faf9d69ec0beaf2685c"
+    },
+    "docs/index.html": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "ed4746aa88e526652f034c5d2728fd4553a89c8190cb6bdfe2158189951b4ed6",
+      "localized_sha256": "40c91ffa0767b5876e9b1d8bfc0600d0c97dd14db9b0ec545be4b3963f31c158"
+    },
+    "docs/step.html": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "514731ba8e1e527b3e4269ae21770231033044a74af203a8b20bc9c36027e988",
+      "localized_sha256": "43986268022e2e6222bfb6fca8525fc96758161e5a75ec90e0458acb59e38a75"
+    },
+    "workshop/00-overview.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "adadac957dfd1aa85a2a686d5a2d4c85107357d440872a850d57d98449cc9fe1",
+      "localized_sha256": "136ae9d345af4b00c8d736d70df1becf7679a607db5076b6d7d5c478d5ec7ec0"
+    },
+    "workshop/01-setup.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "695231d269f8f98666abb4a7b35d77da8869323da5d4456fe9dc53ffbfbab660",
+      "localized_sha256": "94308a984486f43d9bf11fb226ce338d60bde6e9e490f46f97d2bd69c1d9e485"
+    },
+    "workshop/02-plan-and-scaffold.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "75336c98d12e305c5fae7a7f7b955e0ee4613b65c34f9b28606bfa4e4ad03d1e",
+      "localized_sha256": "108b6ef2a47a776464be2d37281853aa45e71e16aee3400065e5805ad5c96e4c"
+    },
+    "workshop/03-agent-mode.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "0994ac1103d632c872fd3ec7cb3a4544e9dfc1ec7483a6a896b7e11007621770",
+      "localized_sha256": "5e222a836e5ce7c5d1f2afc9ba660bd050cd4dde7087358f0b720797e08dd3f4"
+    },
+    "workshop/04-design-vibes.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "bd3aa172189ee1fc66364702070c85ea1229b5758e7f4d43a826b30ab169ae22",
+      "localized_sha256": "935016ed7934711971d350561bd56fefdabaf63c219c86b0e125f3e9a54cfa4f"
+    },
+    "workshop/05-polish.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "69b8676ea3b4d050a10b0bd32416a2990c211c098e839fe88632b2860fbd0f42",
+      "localized_sha256": "ca7e6cd9ab3234a05501818a35ff6822712881b5a37f08008e632cf01ca059c2"
+    },
+    "workshop/06-bonus.md": {
+      "source_commit": "70dc9a7f11c2672e29ac9643ed5dfc84d142a427",
+      "source_sha256": "e098cbb78eb4846c548ed889f9fd66c53cf8db5969868ec5eb6c8edae7265670",
+      "localized_sha256": "c28efa0213fc086d0b8c2684551bc4e01115ae4b9918ecd408ba44703654de6f"
+    }
+  }
+}

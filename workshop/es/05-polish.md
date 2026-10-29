@@ -8,8 +8,9 @@ Ahora que la aplicación funciona y se ve genial, es hora de pulir. Esta parte t
 <!-- track:vscode:start -->
 ## Tarea 1: Agente en Segundo Plano para Diseño Responsivo
 
-1. En el panel de Chat, haz clic en **+** → **New background agent**.
-2. Ingresa este prompt:
+1. En el panel de Chat, haz clic en **+** para iniciar un chat nuevo.
+2. En la parte inferior de la ventana, cambia **Local** a **Copilot CLI**.
+3. Introduce este prompt:
 
    ```
    Add responsive CSS media queries: at 1024px switch comparison to single column,
@@ -23,8 +24,8 @@ Ahora que la aplicación funciona y se ve genial, es hora de pulir. Esta parte t
 
 ## Tarea 2: Agente en Segundo Plano para UX de Errores
 
-1. Inicia otro agente en segundo plano.
-2. Ingresa este prompt:
+1. Inicia otro chat en segundo plano.
+2. Introduce este prompt:
 
    ```
    Improve the error experience: add a shake animation for errors, styled error
@@ -37,8 +38,9 @@ Ahora que la aplicación funciona y se ve genial, es hora de pulir. Esta parte t
 
 ## Tarea 3: Agente en la Nube para Variaciones (Opcional)
 
-1. Haz clic en **+** → **New cloud agent**.
-2. Ingresa este prompt:
+1. En el panel de Chat, haz clic en **+** para iniciar un chat nuevo.
+2. En la parte inferior de la ventana, cambia **Local** a **Cloud**.
+3. Introduce este prompt:
 
    ```
    Create an alternative color theme for the battle page — keep the retro arcade
